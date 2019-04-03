@@ -1,16 +1,3 @@
-# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
-# Wed Apr  3 00:47:13 2019
-#
-# User preference: *
-#
-# COLUMN fpl_hostname:   Host Name
-# COLUMN fpl_letter:     Planet Letter
-# COLUMN fpl_name:       Planet Name
-# COLUMN fpl_orbper:     Orbital Period [days]
-# COLUMN fpl_bmasse:     Planet Mass or M*sin(i) [Earth mass]
-# COLUMN fpl_rade:       Planet Radius [Earth radii]
-# COLUMN fpl_eqt:        Equilibrium Temperature [K]
-#
 loc_rowid,fpl_hostname,fpl_letter,fpl_name,fpl_orbper,fpl_bmasse,fpl_rade,fpl_eqt
 1,11 Com,b,11 Com b,326.03000000,6165.60000,12.100,
 2,11 UMi,b,11 UMi b,516.21997000,4684.81420,12.300,
