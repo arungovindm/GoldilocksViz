@@ -3,7 +3,6 @@ Data Analysis and Visualization Final project</br>
 This project is a visualization of a subset of the 3900 exoplanets discovered so far (April 2019)</br>
 This interactive web-app was made using Dash and Plotly.js</br></br>
 Click [here](https://exoplanets-vis.herokuapp.com/) to explore these exoplanets!</br>
-Click on an exoplanet in the 3D bubble plot, choose your metrics from drop down list see how similar that planet is to our pale blue dot, the only home we've ever known
 
 ## Guide to explore the exoplanets
 Open on a laptop or tablet for best experience. </br>
